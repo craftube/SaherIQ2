@@ -4,6 +4,7 @@ setuptools
 wheel
 aiohttp
 cloudscraper
+instaloader
 pymongo[srv]
 speechrecognition
 colour
